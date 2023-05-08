@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @guycoder350
+- 👀 I’m interested in web and app development
+- 🌱 I’m currently learning java
+- 💞️ I’m looking to collaborate on a java project
+- 📫 You can reach me at guycoder35@gmail.com
